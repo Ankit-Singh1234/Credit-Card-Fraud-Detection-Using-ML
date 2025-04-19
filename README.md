@@ -91,7 +91,7 @@ Some visual insights generated during EDA:
 ## 👨‍💻 Author
 
 Made with ❤️ by [Your Name]  
-🔗 [GitHub](https://github.com/your-github) | [LinkedIn](https://linkedin.com/in/your-profile)
+🔗 [GitHub]([https://github.com/your-github](https://github.com/Ankit-Singh1234) | [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ankit-singh-583b1b252/)
 
 ---
 
